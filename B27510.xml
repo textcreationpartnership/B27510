@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The second humble cry of this kingdome to their desired nursing father the king with Parliament for their preventing helpe against the power of sword and famine with the meanes thereof propounded in this city and all places yet unplundered, and if the noyse of the multitude of businesse doe kepe them from hearing us, we entreat our elder brethren in London and Westminster dayly to present this our supplycation to their eyes and eares.</title>
+            <author>Nutt, Thomas, 17th cent.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27510</idno><idno type="EEBO-CITATION">99885505</idno>
+  <idno type="VID">193255</idno>
+  <idno type="EEBO-PROQUEST">2240880517</idno>
+  
+            <idno type="STC">Wing N1478</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.20.[1]</idno>
+            <idno type="STC">ESTC R224277</idno>
+            <idno type="PROQUEST">ocm99885505</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885505e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27510)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193255)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B5:1[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The second humble cry of this kingdome to their desired nursing father the king with Parliament for their preventing helpe against the power of sword and famine with the meanes thereof propounded in this city and all places yet unplundered, and if the noyse of the multitude of businesse doe kepe them from hearing us, we entreat our elder brethren in London and Westminster dayly to present this our supplycation to their eyes and eares.</title>
+                  <author>Nutt, Thomas, 17th cent.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1645?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Thomas Nutt.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Proposes measures to conserve supply of grain and blames swearing for the troubles of the land--MH-H.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Grain --  England --  Early works to 1800.</term>
+               <term type="topical_term">Swearing --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:193255:1"/>
+            <pb facs="tcp:193255:1"/>
+            <head>
+               <hi>THE SECOND HUMBLE CRY OF THIS KINGDOME</hi> To their desired Nursing Father the King with Parliament for their preventing helpe against the Power Of Sword and Famine with the meanes thereof Propounded in this City and all places yet unplun<g ref="char:EOLhyphen"/>dered, and if the Noyse of the multitude of Businesse doe kepe them from hearing us, we entreat Our Elder Brethren in <hi>London</hi> and <hi>Westminster</hi> dayly to present this our supplycation to their Eyes and Eares.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the first place then I beseech you consider whether the next Summer in regard of the trouble<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> like to be, is not like to bring forth a smaller Crop of Corne, so that in some parts our brethren may come to us or we to them for bread if so, then that we may not want how to releve each other; first then if you did let no more mault be made seing Barley with Rye is good Bread-corne, secondly rhat there be not Bere or Ale, sold for above six shillings a barrell, and none from or in any Ale-house any dererer r<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te then two quarts a peny which will much preserve your plenty of Corne.</p>
+            <p>Then also to prohibit feasting that so people may be the bettter able to further the publick good and releve the poore.</p>
+            <p>And also that all in generall would spare three meales in a week which it would conduce to much plenty also to health of the body as Phesitians say and farther you might I conceive Easily se<g ref="char:EOLhyphen"/>cuer the store of most Counties Townes and vilages, for use of the owners and all the friends of the King and Parliament in such a way as might be for much strengthning and three fold defence; wherein pardon my silence, least the other party should take the first advantage of the same, but I shall forwardly for good ingene<g ref="char:EOLhyphen"/>rall declare the same, to our Nurcing father King and Parliament, or their deputies, and entreat our brethren in <hi>London</hi> and <hi>VVestminster</hi> to tender the same to them.</p>
+            <p>And further that whereas such though good Corces in generall, yet may hinder some men in particular, I humbly crave pardon of those who may be hindred thereby and that they would consider that the generall good is first to be desired, and further that honourable house would inforce the brewers or any other Land<g ref="char:EOLhyphen"/>ords, that sell Bere and Ale, may have Rent but according to the Rent of other houses proportionable ac<g ref="char:EOLhyphen"/>cording to the worth of them.</p>
+            <p>And further consider that our feares are encreased by reason the cause is not taken away, the caus<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of a Lands mourning are swoard and famine.</p>
+            <p>The cause of that cause is vaine swearing, <hi>Ieremiah</hi> the 23.10. Consider how at this time there is hard<g ref="char:EOLhyphen"/>ly a man or or woman, in the Land but is guilty of swering ever since that good statute came forth as well he that here and conseale, as he that sweares <hi>Leviticus</hi> the 5.1. Some are apt to say because Papist are so suffered, others because there are so many Religions, others because there is so much envy and back-biting.</p>
+            <p>Others because so many thinke better of themselves, then others all which indeed are to be lamented, but who say or thinke, or beleve it is for vaine, swearing yet god saith so, the reason is that we thinke because tdat fine doth not reflect against our persons and estates, but imediately against God, we regard it not to endeavour the punnishment thereof, now see how God is about to measure to us, such measure as we meet to him. <hi>Math.</hi> 7.2. The sins of our enemies reflect against our persons and estates, and why should God regard to punnish them for that.</p>
+            <p>Then let us justifie the Lord who saith thy destruction is of thy selfe, and he saith also, doe you provoke me to anger, and not your selves to wrath. The Lord saith he that honor me I will honor, then I beseech you, en<g ref="char:EOLhyphen"/>courage all in their places to honour him by keeping downe that sinne, which c<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>use our Land to morne then if it please you to order that that sinne may be strictly punished, and whereas the Consealers are guilty as well as the swearers, <hi>Leviticus</hi> 5.1. if you please to lay halfe the penallty of them, as of the swerers, to shew that you hate the sinne, and not the sinner, if you would ple<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se to order that upon testimony of 2. honest witnesses of which there be knowne no malice before nor yet falling out to cause pation now.</p>
+            <p>An officer in every parish, might take the pennalty and remembring mercy, you might please for 14. dayes after your order that the swearer should pay but 2. pence the consealor 1. peny 14. dayes next one 4. pence the other 2. pence, and after that, one 12. pence, the other 6. pence.</p>
+            <p>And if the Officer should neglect his duty herein, then he should pay double so much as the offender, and as the sinne Cause the Iudgment so the pennalties should be imployed also in the preventing them, paying therewith such as help to resist the enemies, thus you honouring god in taking away the cause, he will honour you in ceacing the effect.</p>
+            <p>
+               <hi>I can also enforme how with little expence of money, little spilling of Blood, to the great joy of the Kingdom, &amp; honour to your proceedings, how to secure the store in all Counties, for the use of the own<g ref="char:EOLhyphen"/>ers against the feare of plundring, and so as they shall not neede much feare the aproach of their Enemies but shall drive them back with small cost almost as</hi> Davids <hi>sling, and as certaine.</hi>
+            </p>
+            <closer>
+               <signed>Thomas Nutt.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:193255:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
